@@ -2,7 +2,7 @@
 Script for installing the Linux CAPT Printer Driver for Canon LBP printers on Mint (both 32-bit and 64-bit)
 ### Install
 ```
-wget https://github.com/Taha-ABBAD/Mint_canon_printer/refs/heads/master/canon_lbp_setup.sh
+wget https://raw.githubusercontent.com/Taha-ABBAD/Mint_canon_printer/refs/heads/master/canon_lbp_setup.sh
 chmod +x canon_lbp_setup.sh
 ./canon_lbp_setup.sh
 ```
