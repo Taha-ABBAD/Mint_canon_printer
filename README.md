@@ -1,5 +1,5 @@
-## Canon LBP printers drivers installer for Ubuntu
-Script for installing the Linux CAPT Printer Driver for Canon LBP printers on Ubuntu (both 32-bit and 64-bit)
+## Canon LBP printers drivers installer for Mint
+Script for installing the Linux CAPT Printer Driver for Canon LBP printers on Mint (both 32-bit and 64-bit)
 ### Install
 ```
 wget https://github.com/Taha-ABBAD/Mint_canon_printer/blob/master/canon_lbp_setup.sh
@@ -45,4 +45,4 @@ After installation, there will be a shortcut on your Desktop. Run it to check yo
 - LBP9100C
 - LBP9200C
 ### Original Script
-http://help.ubuntu.ru/wiki/canon_capt
+http://help.Ubuntu.ru/wiki/canon_capt
